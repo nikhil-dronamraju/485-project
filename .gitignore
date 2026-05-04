@@ -1,0 +1,6 @@
+data/raw/data.csv
+data/raw/data.parquet
+data/raw/distribution.csv
+data/raw/distribution.parquet
+data/raw/prompts.csv
+data/raw/prompts.parquet
